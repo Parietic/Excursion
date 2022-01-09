@@ -1,0 +1,37 @@
+/* Universal style */
+
+body {
+	text-align: center;
+	font-family: Verdana;
+	color: white;
+	background-color: black;
+}
+
+/* paragraph style */
+
+p {
+	font-size: 21px;
+	color: gray;
+}
+
+p a {
+	font-size: 16px;
+	color: aquamarine;
+}
+
+/* header style */
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+/* ID style */
+
+#copyright {
+	text-align: right;
+}
